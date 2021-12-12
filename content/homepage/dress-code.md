@@ -1,5 +1,5 @@
 ---
-title: 'การแต่งตัว'
+title: 'ธีมแต่งตัว'
 weight: 4
 header_menu: true
 ---
